@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "firebase": "^7.15.5",
+    "fs": "0.0.1-security",
     "node-sass": "^4.14.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
@@ -31,5 +32,19 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "description": "* The data is stored locally and not on Firestore\r * GraphQL has not been used.\r version 1 is hosted [HERE!](https://ak-clothing-attempt-two.herokuapp.com/)",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdityaKumawat97/react-e-commerce-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdityaKumawat97/react-e-commerce-website/issues"
+  },
+  "homepage": "https://github.com/AdityaKumawat97/react-e-commerce-website#readme"
 }
